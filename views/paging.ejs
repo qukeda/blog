@@ -1,0 +1,10 @@
+<br />
+<div class="btn" style="left:50%;right:50%;width: 100px; margin-left: -67px; margin-top: -110px;position:relative;">
+  <% if (!isFirstPage) { %>
+    <span class="prepage"><a title="上一页" href="?p=<%= page-1 %>">上一页</a></span>
+  <% } %>
+
+  <% if (!isLastPage) { %>
+    <span class="nextpage"><a title="下一页" href="?p=<%= page+1 %>">下一页</a></span>
+  <% } %>
+</div>

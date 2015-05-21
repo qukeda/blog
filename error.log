@@ -1,0 +1,176 @@
+[Thu May 14 2015 16:52:02 GMT+0800 (CST)] /u/keda/2015-5-14/mac%E4%B8%8A%E8%BF%90%E8%A1%8C%E7%A8%8B%E5%BA%8F
+Error: no open connections
+    at Db._executeQueryCommand (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/db.js:1705:21)
+    at Cursor.nextObject (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/cursor.js:649:13)
+    at Collection.findOne (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/collection.js:1008:10)
+    at /Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:186:18
+    at MongoStore._get_collection (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:126:21)
+    at MongoStore.get (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:185:10)
+    at Object.session [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/session.js:314:11)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+    at Object.cookieParser [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/cookieParser.js:60:5)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+[Thu May 14 2015 16:52:07 GMT+0800 (CST)] /u/keda/2015-5-14/mac%E4%B8%8A%E8%BF%90%E8%A1%8C%E7%A8%8B%E5%BA%8F
+Error: no open connections
+    at Db._executeQueryCommand (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/db.js:1705:21)
+    at Cursor.nextObject (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/cursor.js:649:13)
+    at Collection.findOne (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/collection.js:1008:10)
+    at /Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:186:18
+    at MongoStore._get_collection (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:126:21)
+    at MongoStore.get (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:185:10)
+    at Object.session [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/session.js:314:11)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+    at Object.cookieParser [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/cookieParser.js:60:5)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+[Thu May 14 2015 16:52:25 GMT+0800 (CST)] /tags/mac
+Error: no open connections
+    at Db._executeQueryCommand (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/db.js:1705:21)
+    at Cursor.nextObject (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/cursor.js:649:13)
+    at Collection.findOne (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/collection.js:1008:10)
+    at /Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:186:18
+    at MongoStore._get_collection (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:126:21)
+    at MongoStore.get (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:185:10)
+    at Object.session [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/session.js:314:11)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+    at Object.cookieParser [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/cookieParser.js:60:5)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+[Thu May 14 2015 16:52:31 GMT+0800 (CST)] /
+Error: no open connections
+    at Db._executeQueryCommand (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/db.js:1705:21)
+    at Cursor.nextObject (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/cursor.js:649:13)
+    at Collection.findOne (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/collection.js:1008:10)
+    at /Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:186:18
+    at MongoStore._get_collection (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:126:21)
+    at MongoStore.get (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:185:10)
+    at Object.session [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/session.js:314:11)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+    at Object.cookieParser [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/cookieParser.js:60:5)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+[Thu May 14 2015 16:52:34 GMT+0800 (CST)] /
+Error: no open connections
+    at Db._executeQueryCommand (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/db.js:1705:21)
+    at Cursor.nextObject (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/cursor.js:649:13)
+    at Collection.findOne (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/collection.js:1008:10)
+    at /Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:186:18
+    at MongoStore._get_collection (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:126:21)
+    at MongoStore.get (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:185:10)
+    at Object.session [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/session.js:314:11)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+    at Object.cookieParser [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/cookieParser.js:60:5)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+[Thu May 14 2015 18:42:55 GMT+0800 (CST)] /
+Error: db object already connecting, open cannot be called multiple times
+    at Db.open (/Users/keda/blog/node_modules/mongodb/lib/mongodb/db.js:240:11)
+    at Function.Post.getTen (/Users/keda/blog/models/post.js:66:11)
+    at /Users/keda/blog/routes/index.js:13:10
+    at callbacks (/Users/keda/blog/node_modules/express/lib/router/index.js:164:37)
+    at param (/Users/keda/blog/node_modules/express/lib/router/index.js:138:11)
+    at pass (/Users/keda/blog/node_modules/express/lib/router/index.js:145:5)
+    at Router._dispatch (/Users/keda/blog/node_modules/express/lib/router/index.js:173:5)
+    at Object.router (/Users/keda/blog/node_modules/express/lib/router/index.js:33:10)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/session.js:318:9)
+[Thu May 14 2015 19:16:54 GMT+0800 (CST)] /edit/keda/2015-5-14/mac%E4%B8%8A%E8%BF%90%E8%A1%8C%E7%A8%8B%E5%BA%8F
+TypeError: /Users/keda/blog/views/edit.ejs:6
+    4| <form method="post">
+    5|   标题：<br />
+ >> 6|   <input type="text" name="title" value="<%= post.title %>" disabled="disabled" /><br />
+    7|   标签：<br />
+    8|   <input type="text" name="tag1" value="<%= post.tags[0] %>" disabled="disabled" />
+    9|   <input type="text" name="tag2" value="<%= post.tags[1] %>" disabled="disabled" />
+
+Cannot read property 'title' of null
+    at eval (eval at <anonymous> (/Users/keda/blog/node_modules/ejs/lib/ejs.js:236:14), <anonymous>:32:191)
+    at eval (eval at <anonymous> (/Users/keda/blog/node_modules/ejs/lib/ejs.js:236:14), <anonymous>:34:35)
+    at /Users/keda/blog/node_modules/ejs/lib/ejs.js:249:15
+    at Object.exports.render (/Users/keda/blog/node_modules/ejs/lib/ejs.js:287:13)
+    at View.exports.renderFile [as engine] (/Users/keda/blog/node_modules/ejs/lib/ejs.js:317:20)
+    at View.render (/Users/keda/blog/node_modules/express/lib/view.js:76:8)
+    at Function.app.render (/Users/keda/blog/node_modules/express/lib/application.js:504:10)
+    at ServerResponse.res.render (/Users/keda/blog/node_modules/express/lib/response.js:801:7)
+    at /Users/keda/blog/routes/index.js:351:11
+    at /Users/keda/blog/models/post.js:176:9
+[Sat May 16 2015 15:09:56 GMT+0800 (CST)] /upload
+Error: ENOENT, no such file or directory 'public/images/6429-wppfjf.jpg'
+    at Error (native)
+    at Object.fs.renameSync (fs.js:638:18)
+    at /Users/keda/blog/routes/index.js:192:12
+    at callbacks (/Users/keda/blog/node_modules/express/lib/router/index.js:164:37)
+    at param (/Users/keda/blog/node_modules/express/lib/router/index.js:138:11)
+    at pass (/Users/keda/blog/node_modules/express/lib/router/index.js:145:5)
+    at nextRoute (/Users/keda/blog/node_modules/express/lib/router/index.js:100:7)
+    at callbacks (/Users/keda/blog/node_modules/express/lib/router/index.js:167:11)
+    at checkLogin (/Users/keda/blog/routes/index.js:420:5)
+    at callbacks (/Users/keda/blog/node_modules/express/lib/router/index.js:164:37)
+[Wed May 20 2015 17:05:10 GMT+0800 (CST)] /post
+Error: no open connections
+    at Db._executeQueryCommand (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/db.js:1705:21)
+    at Cursor.nextObject (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/cursor.js:649:13)
+    at Collection.findOne (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/collection.js:1008:10)
+    at /Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:186:18
+    at MongoStore._get_collection (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:126:21)
+    at MongoStore.get (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:185:10)
+    at Object.session [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/session.js:314:11)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+    at Object.cookieParser [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/cookieParser.js:60:5)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+[Wed May 20 2015 17:05:15 GMT+0800 (CST)] /post
+Error: no open connections
+    at Db._executeQueryCommand (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/db.js:1705:21)
+    at Cursor.nextObject (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/cursor.js:649:13)
+    at Collection.findOne (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/collection.js:1008:10)
+    at /Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:186:18
+    at MongoStore._get_collection (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:126:21)
+    at MongoStore.get (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:185:10)
+    at Object.session [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/session.js:314:11)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+    at Object.cookieParser [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/cookieParser.js:60:5)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+[Wed May 20 2015 17:05:29 GMT+0800 (CST)] /
+Error: no open connections
+    at Db._executeQueryCommand (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/db.js:1705:21)
+    at Cursor.nextObject (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/cursor.js:649:13)
+    at Collection.findOne (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/collection.js:1008:10)
+    at /Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:186:18
+    at MongoStore._get_collection (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:126:21)
+    at MongoStore.get (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:185:10)
+    at Object.session [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/session.js:314:11)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+    at Object.cookieParser [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/cookieParser.js:60:5)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+[Wed May 20 2015 17:05:45 GMT+0800 (CST)] /
+Error: no open connections
+    at Db._executeQueryCommand (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/db.js:1705:21)
+    at Cursor.nextObject (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/cursor.js:649:13)
+    at Collection.findOne (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/collection.js:1008:10)
+    at /Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:186:18
+    at MongoStore._get_collection (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:126:21)
+    at MongoStore.get (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:185:10)
+    at Object.session [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/session.js:314:11)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+    at Object.cookieParser [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/cookieParser.js:60:5)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+[Wed May 20 2015 17:05:48 GMT+0800 (CST)] /
+Error: no open connections
+    at Db._executeQueryCommand (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/db.js:1705:21)
+    at Cursor.nextObject (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/cursor.js:649:13)
+    at Collection.findOne (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/collection.js:1008:10)
+    at /Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:186:18
+    at MongoStore._get_collection (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:126:21)
+    at MongoStore.get (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:185:10)
+    at Object.session [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/session.js:314:11)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+    at Object.cookieParser [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/cookieParser.js:60:5)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+[Wed May 20 2015 17:06:02 GMT+0800 (CST)] /
+Error: no open connections
+    at Db._executeQueryCommand (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/db.js:1705:21)
+    at Cursor.nextObject (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/cursor.js:649:13)
+    at Collection.findOne (/Users/keda/blog/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/collection.js:1008:10)
+    at /Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:186:18
+    at MongoStore._get_collection (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:126:21)
+    at MongoStore.get (/Users/keda/blog/node_modules/connect-mongo/lib/connect-mongo.js:185:10)
+    at Object.session [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/session.js:314:11)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)
+    at Object.cookieParser [as handle] (/Users/keda/blog/node_modules/express/node_modules/connect/lib/middleware/cookieParser.js:60:5)
+    at next (/Users/keda/blog/node_modules/express/node_modules/connect/lib/proto.js:193:15)

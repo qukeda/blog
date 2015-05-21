@@ -1,0 +1,62 @@
+<%- include header %>
+<div class="container">
+  <% if (error) { %>
+  <div class="alert alert-error">
+    <%= error %></div>
+  <% } %>
+  <% if (success) { %>
+  <div class="alert alert-success">
+    <%= success %></div>
+  <% } %>
+
+  <!-- Main hero unit for a primary marketing message or call to action -->
+  <div class="hero-unit">
+    
+    <h1>欢迎来到 Microblog</h1>
+    <br> 
+    <p>Microblog 是一个基于 Node.js 的微博系统。你可以发布生活小常识，你可以发布各种知识，您可以发布你想说的话.您也可以写一些“神器”的链接，总之之本着一颗为大家服务的心，构建好本网，谢谢！</p> 
+    <p> 
+    <a class="btn btn-primary btn-large" href="/login">登录</a> 
+    <a class="btn btn-large" href="/reg">立即注册</a> 
+  </p> 
+  
+  </div>
+
+  <!-- Example row of columns -->
+  <div class="row hero-unit">
+    <% posts.forEach(function(post, index){ %>
+    <div class="span5">
+      <h3 class="sm">
+        <a href="/u/<%= post.name %>/<%= post.time.day %>/<%= post.title %>"><%= post.title %></a>
+      </h3>
+      <p class="info">
+        作者：
+        <a href="/u/<%= post.name %>
+          ">
+          <%= post.name %></a>
+        |
+    日期：
+        <%= post.time.minute %></p>
+        标签：
+  <% post.tags.forEach(function (tag, index) { %>
+    <% if (tag) { %>
+      <a class="tag" href="/tags/<%= tag %>"><%= tag %></a>
+    <% } %>
+  <% }) %>
+      <h5 class="wenzhang">
+        <%- post.post %></h5>
+      <p>
+        <a class="btn" href="/u/<%= post.name %>/<%= post.time.day %>/<%= post.title %>">查看全部信息 &raquo;</a>
+      </p>
+    </div>
+    <% }) %></div>
+
+  <!-- <hr>
+
+  <footer>
+    <p>&copy; Company 2013</p>
+  </footer>
+  -->
+</div>
+<%- include paging %>
+<%- include footer %>

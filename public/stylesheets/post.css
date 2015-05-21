@@ -1,0 +1,150 @@
+.post {
+    height: 500px;
+    width: 560px;
+    /*background: red;*/
+    
+    margin: 0 auto;
+}
+
+
+
+/*.prepage a:hover,
+.nextpage a:hover {
+    text-decoration: none;
+    background-color: #ff0000;
+    color: #f9f9f9;
+    -webkit-transition: color .2s linear;
+}
+*/
+.edit {
+    margin: 3px;
+    padding: 2px 5px;
+    border-radius: 3px;
+    background-color: #f3f3f3;
+    color: #333;
+    font-size: 20px;
+}
+
+.edit:hover {
+    text-decoration: none;
+    background-color: #f00;
+    color: #fff;
+    -webkit-transition: color .2s linear;
+}
+
+.tag {
+    background-color: #ff0000;
+    border-radius: 3px;
+    font-size: 14px;
+    color: #ffffff;
+    display: inline-block;
+    padding: 0 5px;
+    margin-bottom: 8px;
+}
+
+.tag:hover {
+    text-decoration: none;
+    background-color: #ffffff;
+    color: #000000;
+    -webkit-transition: color .2s linear;
+}
+
+.reg {}
+
+.reg {
+    background-color: #fff;
+    padding: 10px 20px;
+    opacity: .9;
+}
+
+.l_head {
+    float: left;
+    margin-left: -4em;
+    box-shadow: 0px 1px 4px #888;
+}
+
+.r_head {
+    float: right;
+    margin-top: -2.5em;
+    box-shadow: 0px 1px 4px #888;
+}
+
+div.hero-unit {
+    opacity: .9;
+    margin-left: 0px;
+    margin-bottom: 40px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    /*white-space:nowrap;		*/
+    
+    word-wrap: break-word;
+}
+
+div h3.sm {
+    /*line-height: 25px;*/
+    
+    overflow: hidden;
+    /*溢出隐藏*/
+    
+    text-overflow: ellipsis;
+    /*变成省略号*/
+    
+    white-space: nowrap;
+    /*字符不换行，强制变成一行*/
+}
+
+div h5.wenzhang {
+    height: 100px;
+    /*line-height: 25px;*/
+    
+    text-overflow: ellipsis;
+    overflow: hidden;
+    /*white-space:nowrap;		*/
+    /*word-wrap:break-word;*/
+}
+
+div.hero-unit-user {
+    height: 1000px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+div#footer-content {
+    padding: 20px;
+    height: 186px;
+}
+
+#gray {
+    opacity: 1;
+    background: #34373b;
+    color: #8e9798;
+}
+/*footer div.row{
+	opacity: 1;
+	background:#34373b;
+	color: #8e9798;
+	padding: 50px;
+	margin: 0;
+	margin-bottom: 20px;
+	padding: 0;
+
+}
+footer div .footer-1{
+	width: 50%;
+	float: left;
+	/*position: relative;
+}*/
+
+footer div .footer-2 {
+    position: relative;
+    width: 120px;
+    left: 50%;
+    right: 50%;
+    margin-left: -60px;
+    font-size: 10px;
+}
+
+text-overflow:ellipsis;
+overflow:hidden;
+white-space:nowrap;
+word-wrap:break-word;

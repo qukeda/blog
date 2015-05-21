@@ -1,0 +1,9 @@
+<%- include header %>
+<div class="container">
+<div class="hero-unit">
+<% posts.forEach(function (tag, index) { %>
+  <a class="tag" href="/tags/<%= tag %>"><%= tag %></a>
+<% }) %>
+</div>
+</div>
+<%- include footer %>
